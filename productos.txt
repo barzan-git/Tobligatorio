@@ -1,0 +1,20 @@
+banana
+fruta amarilla
+$50
+330
+#
+manzana
+fruta roja
+$20
+33
+#
+pera
+fruta verde
+$10
+325
+#
+madera
+material para construir
+$44
+31
+#
